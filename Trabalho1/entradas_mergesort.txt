@@ -1,0 +1,16 @@
+5
+12
+marcelo
+5.6
+23
+julia
+9.3
+13
+anderson
+4.5
+83
+selton
+3.2 
+9
+alice
+5.3

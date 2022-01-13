@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*.c": "c",
+        "*.rmd": "markdown",
+        "cstdio": "cpp"
+    }
+}
